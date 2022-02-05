@@ -1,0 +1,6 @@
+name: ArmorsHub
+version: 1.1
+description: An armors will be granted you if you have an specific permission.
+website: www.histeria.win
+author: Histeria (orl4nd1)
+main: win.histeria.ArmorsHub.Main
